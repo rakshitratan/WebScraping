@@ -9,11 +9,11 @@ In this repository you will find three projects of collecting data from differen
 
 
 <H2>
-Software used:
+Software used: </H2>
 •	Python
 •	Jupiter notebook
-</H2>
-Python Libraries used:
+
+<H2>Python Libraries used:</H2>
 •	Urllib – For requesting the webpages
 •	Request – For requesting the webpages
 •	BeautifulSoup – WebScraping tool for parsing the HTML
