@@ -14,7 +14,7 @@ Software used: </H2>
 •	Jupiter notebook
 
 <H2>Python Libraries used:</H2>
-•	Urllib – For requesting the webpages
-•	Request – For requesting the webpages
-•	BeautifulSoup – WebScraping tool for parsing the HTML
-•	Pandas - For creating the data frame and standard library for organizing data
+a) Urllib – For requesting the webpages
+b) Request – For requesting the webpages
+c) BeautifulSoup – WebScraping tool for parsing the HTML
+d) Pandas - For creating the data frame and standard library for organizing data
