@@ -1,4 +1,4 @@
-                                                                                   # WebScraping
+# WebScraping
 
 When it comes to analyze data. The most important task of an analyst before analysis is to collect data. In the journey of becoming an data analyst, we use data sources with formatted data, but later as we expand our horizon we have to collect data from different sources and format that accordingly for our analysis. 
 
